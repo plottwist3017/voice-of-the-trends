@@ -3,6 +3,7 @@
 A Power BI + Python data visualization project analyzing 300,000+ global trending hashtags (2025) and transforming them into a brain-shaped word cloud that represents collective social media attention patterns.
 
 This project focuses on data aggregation, trend analysis, and high-impact visualization storytelling using real-world social media data.
+
 ---
 
 # 🚀 Project Overview
