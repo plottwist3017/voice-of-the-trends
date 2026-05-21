@@ -14,9 +14,9 @@ The main output is a brain-shaped word cloud, representing the intensity and dis
 
 ---
 
-# 🖥️ Power BI Dashboard
+# 🖥️ Power BI Word Cloud (Brain Shaped)
 
-The dashboard was built using Power BI with Python integration to generate a custom word cloud visual.
+The dashboard was built using Power BI with Python integration to generate a custom brain-shaped word cloud visual.
 
 ---
 
