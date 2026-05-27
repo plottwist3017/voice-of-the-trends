@@ -6,7 +6,7 @@ This project focuses on data aggregation, trend analysis, and high-impact visual
 
 ---
 
-# 🚀 Project Overview
+## 🚀 Project Overview
 
 This project analyzes 300,000+ global trending hashtags (2025) and visualizes social media attention patterns using a Power BI dashboard with Python integration.
 
@@ -14,7 +14,7 @@ The main output is a brain-shaped word cloud, representing the intensity and dis
 
 ---
 
-# 🖥️ Power BI Word Cloud (Brain Shaped)
+## 🖥️ Power BI Word Cloud (Brain Shaped)
 
 The dashboard was built using Power BI with Python integration to generate a custom brain-shaped word cloud visual.
 
@@ -24,7 +24,7 @@ The dashboard was built using Power BI with Python integration to generate a cus
 
 ---
 
-# Features:
+## Features:
 
 Data aggregation of hashtag mentions
 Filtering of low-frequency noise
@@ -37,7 +37,7 @@ powerbi/voice_of_trends_dashboard.pbix
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 │
@@ -59,7 +59,7 @@ powerbi/voice_of_trends_dashboard.pbix
 └── README.md
 ```
 
-# 📊 Dataset
+## 📊 Dataset
 
 Global Trending Hashtags Dataset (2025)
 Size: 300,000+ rows
@@ -68,7 +68,7 @@ Source: Kaggle (Global Social Media Trending Hashtags Dataset 2025)
 
 ---
 
-# ⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies Used
 - 📈 Power BI
 - 📄 Microsoft Excel / CSV
 - 🐍Python, Pandas & NumPy
@@ -80,7 +80,7 @@ Source: Kaggle (Global Social Media Trending Hashtags Dataset 2025)
 
 ---
 
-# 🐍 Python Implementation
+## 🐍 Python Implementation
 
 The word cloud is generated using Python inside Power BI.
 
@@ -99,7 +99,7 @@ Key Steps:
 
 ---
 
-# 📌 Key Features
+## 📌 Key Features
 - Large-scale dataset processing (300K+ rows)
 - Power BI + Python integration
 - Custom shape-based word cloud
@@ -109,7 +109,7 @@ Key Steps:
 
 ---
 
-# 🧠 Insights
+## 🧠 Insights
 
 The visualization represents global social media activity as a collective attention map, where:
 
@@ -119,7 +119,7 @@ Spatial layout → conceptual “digital brain” of online discourse
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a Computer Science student passionate about:
 
